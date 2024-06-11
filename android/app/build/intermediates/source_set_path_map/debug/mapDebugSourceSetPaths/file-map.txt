@@ -1,0 +1,56 @@
+org.tensorflow.lite.examples.imageclassification.app-startup-runtime-1.1.1-0 C:\Users\5gymp\.gradle\caches\transforms-4\14c9d28e184248938c879ca8eed6b88b\transformed\startup-runtime-1.1.1\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-ui-2.7.7-1 C:\Users\5gymp\.gradle\caches\transforms-4\1779f2b5e650ed65cc6d5942c5eeb03b\transformed\navigation-ui-2.7.7\res
+org.tensorflow.lite.examples.imageclassification.app-core-1.13.1-2 C:\Users\5gymp\.gradle\caches\transforms-4\17e6d469f8d6ad16f7a368ef6732494b\transformed\core-1.13.1\res
+org.tensorflow.lite.examples.imageclassification.app-recyclerview-1.1.0-3 C:\Users\5gymp\.gradle\caches\transforms-4\1a263937d94dfd776aa5faff1e008f66\transformed\recyclerview-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-activity-ktx-1.8.0-4 C:\Users\5gymp\.gradle\caches\transforms-4\23d34cae675d6c0c845cff67ffede1e0\transformed\activity-ktx-1.8.0\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-viewmodel-2.6.2-5 C:\Users\5gymp\.gradle\caches\transforms-4\2e40cbec1e2a0cbb268fa16340ad03c9\transformed\lifecycle-viewmodel-2.6.2\res
+org.tensorflow.lite.examples.imageclassification.app-savedstate-ktx-1.2.1-6 C:\Users\5gymp\.gradle\caches\transforms-4\318767f301c13b0000dd7b425db24a1a\transformed\savedstate-ktx-1.2.1\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-livedata-core-2.6.2-7 C:\Users\5gymp\.gradle\caches\transforms-4\35bab23a8ac6a06df566c24339d43c34\transformed\lifecycle-livedata-core-2.6.2\res
+org.tensorflow.lite.examples.imageclassification.app-camera-camera2-1.3.3-8 C:\Users\5gymp\.gradle\caches\transforms-4\37890d65aaa4a6a5f0b92c8ad04746f6\transformed\camera-camera2-1.3.3\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-common-ktx-2.7.7-9 C:\Users\5gymp\.gradle\caches\transforms-4\3e11bdc4ac2e406006a51b0300218490\transformed\navigation-common-ktx-2.7.7\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-livedata-core-ktx-2.6.2-10 C:\Users\5gymp\.gradle\caches\transforms-4\3f0f193af635b9a7d0805659136b5c10\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-common-2.7.7-11 C:\Users\5gymp\.gradle\caches\transforms-4\459cdddcc00aca212709b686ea3aab11\transformed\navigation-common-2.7.7\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-livedata-2.6.2-12 C:\Users\5gymp\.gradle\caches\transforms-4\465c6f91d4edf99312b4b63ce69741c5\transformed\lifecycle-livedata-2.6.2\res
+org.tensorflow.lite.examples.imageclassification.app-drawerlayout-1.1.1-13 C:\Users\5gymp\.gradle\caches\transforms-4\48ccfcaa27abf29c8e4c5d415ab44f0c\transformed\drawerlayout-1.1.1\res
+org.tensorflow.lite.examples.imageclassification.app-constraintlayout-2.1.4-14 C:\Users\5gymp\.gradle\caches\transforms-4\5cde6c2948bdd76a98b0e59aa275c59b\transformed\constraintlayout-2.1.4\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-runtime-ktx-2.7.7-15 C:\Users\5gymp\.gradle\caches\transforms-4\60593b0ada62b83d8fd6abb5d589d55e\transformed\navigation-runtime-ktx-2.7.7\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-viewmodel-ktx-2.6.2-16 C:\Users\5gymp\.gradle\caches\transforms-4\637ef1284f60c8e8c5a67efe27fc3e79\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+org.tensorflow.lite.examples.imageclassification.app-material-1.12.0-17 C:\Users\5gymp\.gradle\caches\transforms-4\78733c57a20ee5c3d7ae25e34a081a60\transformed\material-1.12.0\res
+org.tensorflow.lite.examples.imageclassification.app-transition-1.5.0-18 C:\Users\5gymp\.gradle\caches\transforms-4\79b48605704a4eecb299e7ae7a54e411\transformed\transition-1.5.0\res
+org.tensorflow.lite.examples.imageclassification.app-emoji2-views-helper-1.3.0-19 C:\Users\5gymp\.gradle\caches\transforms-4\7a1ef496d7e89f6c0e383a8df92d7890\transformed\emoji2-views-helper-1.3.0\res
+org.tensorflow.lite.examples.imageclassification.app-appcompat-resources-1.7.0-20 C:\Users\5gymp\.gradle\caches\transforms-4\7e8fce9d16291c8cf6c3b41f91d6d998\transformed\appcompat-resources-1.7.0\res
+org.tensorflow.lite.examples.imageclassification.app-slidingpanelayout-1.2.0-21 C:\Users\5gymp\.gradle\caches\transforms-4\85af423cfa0483a10b16042ea79bb332\transformed\slidingpanelayout-1.2.0\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-process-2.6.2-22 C:\Users\5gymp\.gradle\caches\transforms-4\8da12963dc74a87e84095cf0aeac9e47\transformed\lifecycle-process-2.6.2\res
+org.tensorflow.lite.examples.imageclassification.app-window-1.3.0-23 C:\Users\5gymp\.gradle\caches\transforms-4\9483a889e3c31589a271f8ca56abf1e2\transformed\window-1.3.0\res
+org.tensorflow.lite.examples.imageclassification.app-annotation-experimental-1.4.0-24 C:\Users\5gymp\.gradle\caches\transforms-4\987df570a2c83e3e907fe166d114e2ad\transformed\annotation-experimental-1.4.0\res
+org.tensorflow.lite.examples.imageclassification.app-cardview-1.0.0-25 C:\Users\5gymp\.gradle\caches\transforms-4\997ac2bc2aba91ca64033586c3d82082\transformed\cardview-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-fragment-ktx-2.7.7-26 C:\Users\5gymp\.gradle\caches\transforms-4\9bf438742e92ab470045c5d87d73b86a\transformed\navigation-fragment-ktx-2.7.7\res
+org.tensorflow.lite.examples.imageclassification.app-fragment-ktx-1.6.2-27 C:\Users\5gymp\.gradle\caches\transforms-4\9f226623644ae28d0469c34cbc7ab169\transformed\fragment-ktx-1.6.2\res
+org.tensorflow.lite.examples.imageclassification.app-emoji2-1.3.0-28 C:\Users\5gymp\.gradle\caches\transforms-4\a589630b959447a992e072a05a76d908\transformed\emoji2-1.3.0\res
+org.tensorflow.lite.examples.imageclassification.app-core-1.0.0-29 C:\Users\5gymp\.gradle\caches\transforms-4\a751b3faccfa1e620760e4a4074b47ad\transformed\core-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-core-ktx-1.13.1-30 C:\Users\5gymp\.gradle\caches\transforms-4\a9cbb6d044edcd7a375c4dc47de015ea\transformed\core-ktx-1.13.1\res
+org.tensorflow.lite.examples.imageclassification.app-core-runtime-2.2.0-31 C:\Users\5gymp\.gradle\caches\transforms-4\aced8fbff01ee596164bdb7194984d4a\transformed\core-runtime-2.2.0\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-runtime-ktx-2.6.2-32 C:\Users\5gymp\.gradle\caches\transforms-4\ae3d3ac725d20ea96a419cad4a276aa5\transformed\lifecycle-runtime-ktx-2.6.2\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-runtime-2.6.2-33 C:\Users\5gymp\.gradle\caches\transforms-4\bbbae7000e4db3f06ef6ca0e4855db76\transformed\lifecycle-runtime-2.6.2\res
+org.tensorflow.lite.examples.imageclassification.app-profileinstaller-1.3.1-34 C:\Users\5gymp\.gradle\caches\transforms-4\bc40f36c4ff30f170f8f4f31879db340\transformed\profileinstaller-1.3.1\res
+org.tensorflow.lite.examples.imageclassification.app-camera-video-1.3.3-35 C:\Users\5gymp\.gradle\caches\transforms-4\bf7b150921ae20cf51b78f9316499916\transformed\camera-video-1.3.3\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-fragment-2.7.7-36 C:\Users\5gymp\.gradle\caches\transforms-4\c1dd2d44dba28d79f7e39cabe52d48f3\transformed\navigation-fragment-2.7.7\res
+org.tensorflow.lite.examples.imageclassification.app-camera-view-1.3.3-37 C:\Users\5gymp\.gradle\caches\transforms-4\c726af1eec7a02147eaf5fd6c6b3c075\transformed\camera-view-1.3.3\res
+org.tensorflow.lite.examples.imageclassification.app-coordinatorlayout-1.1.0-38 C:\Users\5gymp\.gradle\caches\transforms-4\c9fe97308525592870bf83f6d533c7c2\transformed\coordinatorlayout-1.1.0\res
+org.tensorflow.lite.examples.imageclassification.app-camera-lifecycle-1.3.3-39 C:\Users\5gymp\.gradle\caches\transforms-4\d5ff0ab6da312d44c58236999845bd02\transformed\camera-lifecycle-1.3.3\res
+org.tensorflow.lite.examples.imageclassification.app-fragment-1.6.2-40 C:\Users\5gymp\.gradle\caches\transforms-4\df4860533cc7322fb1db44578cc8850e\transformed\fragment-1.6.2\res
+org.tensorflow.lite.examples.imageclassification.app-lifecycle-viewmodel-savedstate-2.6.2-41 C:\Users\5gymp\.gradle\caches\transforms-4\dfa79f55cbd5773d5d20f8f8a1c4bd25\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+org.tensorflow.lite.examples.imageclassification.app-appcompat-1.7.0-42 C:\Users\5gymp\.gradle\caches\transforms-4\e03b1a6615befc2c512fb0375e0f7d7f\transformed\appcompat-1.7.0\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-ui-ktx-2.7.7-43 C:\Users\5gymp\.gradle\caches\transforms-4\e21afb2852d5832cb99e3520f44b9beb\transformed\navigation-ui-ktx-2.7.7\res
+org.tensorflow.lite.examples.imageclassification.app-savedstate-1.2.1-44 C:\Users\5gymp\.gradle\caches\transforms-4\e3050dfa8f616a2eea4a13c694d2f7c7\transformed\savedstate-1.2.1\res
+org.tensorflow.lite.examples.imageclassification.app-navigation-runtime-2.7.7-45 C:\Users\5gymp\.gradle\caches\transforms-4\eb0a51da3b844f88da3ee992811c59c1\transformed\navigation-runtime-2.7.7\res
+org.tensorflow.lite.examples.imageclassification.app-activity-1.8.0-46 C:\Users\5gymp\.gradle\caches\transforms-4\ed14c304bb3fd310128b78b1cadb702b\transformed\activity-1.8.0\res
+org.tensorflow.lite.examples.imageclassification.app-camera-core-1.3.3-47 C:\Users\5gymp\.gradle\caches\transforms-4\f5859325f95c73d540c5b238f8628871\transformed\camera-core-1.3.3\res
+org.tensorflow.lite.examples.imageclassification.app-viewpager2-1.0.0-48 C:\Users\5gymp\.gradle\caches\transforms-4\fa2719df4cbeb855023de0c1a7be4614\transformed\viewpager2-1.0.0\res
+org.tensorflow.lite.examples.imageclassification.app-pngs-49 C:\Users\5gymp\Downloads\examples-master (1)\examples-master\lite\examples\image_classification\android\app\build\generated\res\pngs\debug
+org.tensorflow.lite.examples.imageclassification.app-resValues-50 C:\Users\5gymp\Downloads\examples-master (1)\examples-master\lite\examples\image_classification\android\app\build\generated\res\resValues\debug
+org.tensorflow.lite.examples.imageclassification.app-packageDebugResources-51 C:\Users\5gymp\Downloads\examples-master (1)\examples-master\lite\examples\image_classification\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+org.tensorflow.lite.examples.imageclassification.app-packageDebugResources-52 C:\Users\5gymp\Downloads\examples-master (1)\examples-master\lite\examples\image_classification\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+org.tensorflow.lite.examples.imageclassification.app-debug-53 C:\Users\5gymp\Downloads\examples-master (1)\examples-master\lite\examples\image_classification\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+org.tensorflow.lite.examples.imageclassification.app-debug-54 C:\Users\5gymp\Downloads\examples-master (1)\examples-master\lite\examples\image_classification\android\app\src\debug\res
+org.tensorflow.lite.examples.imageclassification.app-main-55 C:\Users\5gymp\Downloads\examples-master (1)\examples-master\lite\examples\image_classification\android\app\src\main\res

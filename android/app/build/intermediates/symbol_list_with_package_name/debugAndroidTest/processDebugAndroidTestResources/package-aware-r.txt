@@ -1,0 +1,3 @@
+org.tensorflow.lite.examples.imageclassification.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
